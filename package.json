@@ -37,6 +37,7 @@
   },
   "homepage": "https://github.com/ploznlu1/ipa-workspace#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "octopus": "git+http://github.com/privatesky/octopus.git"
   }
 }

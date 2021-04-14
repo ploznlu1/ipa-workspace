@@ -39,3 +39,15 @@
     Adding Changess to Dashboard page
     initial commit; populating from sponsor-ssapp
 
+    Adding changes to login page
+    basic scan page
+    changes for courier-ssapp
+    Updates to the CSC Theme
+    Adding changes to login page
+    basic scan page
+    changes for courier-ssapp
+    Updates to the CSC Theme
+    Adding changes to login page
+    basic scan page
+    added login page, DSUManager, deleted uneccessary files
+    Updates to the CSC Theme
