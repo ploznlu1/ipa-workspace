@@ -184,7 +184,7 @@
                 },
                 {
                     "type": "execute",
-                    "cmd": "echo Use this folder template in order to customize the application instance by adding configuration, pages etc. > ./apihub-root/sponsor-wallet/apps-patch/sponsor-ssapp/readme"
+                    "cmd": "echo Use this folder template in order to customize the application instance by adding configuration, pages etc. > ./apihub-root/courier-wallet/apps-patch/sponsor-ssapp/readme"
                 }
             ]
         },
