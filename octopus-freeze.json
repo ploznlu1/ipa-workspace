@@ -47,22 +47,6 @@
             ]
         },
         {
-            "name": "menu-wallet-prototype",
-            "src": "http://github.com/privatesky/menu-wallet-prototype.git",
-            "actions": [
-                {
-                    "type": "smartClone",
-                    "target": ".",
-                    "collectLog": false,
-                    "commit": "b5223827ba0be1f2770decc7ef8838a2f48f5fa1"
-                },
-                {
-                    "type": "execute",
-                    "cmd": "cd menu-wallet-prototype && npm install"
-                }
-            ]
-        },
-        {
             "name": "courier-ssapp",
             "src": "https://github.com/ploznlu1/courier-ssapp.git",
             "actions": [
