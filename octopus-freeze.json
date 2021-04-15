@@ -86,8 +86,8 @@
             ]
         },
         {
-            "name": "themes/csc-theme",
-            "src": "https://github.com/PharmaLedger-IMI/csc-theme.git",
+            "name": "themes/ipa-theme",
+            "src": "https://github.com/ploznlu1/ipa-theme.git",
             "actions": [
                 {
                     "type": "smartClone",
@@ -133,12 +133,12 @@
             ]
         },
         {
-            "name": "csc-theme-wallet-build",
+            "name": "ipa-theme-wallet-build",
             "src": "",
             "actions": [
                 {
                     "type": "execute",
-                    "cmd": "cd themes/csc-theme && npm run build-dossier"
+                    "cmd": "cd themes/ipa-theme && npm run build-dossier"
                 }
             ]
         },
